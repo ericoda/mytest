@@ -1,0 +1,396 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0731A7701D8E4B5800BF5D39 /* MZCardDetailTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0731A76F1D8E4B5800BF5D39 /* MZCardDetailTableView.m */; };
+		0731A7731D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0731A7721D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.m */; };
+		0731A7761D8E4B8700BF5D39 /* MZCardDetailRightsTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0731A7751D8E4B8700BF5D39 /* MZCardDetailRightsTableView.m */; };
+		073840681D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 073840661D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.m */; };
+		073840691D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 073840671D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.xib */; };
+		0738406D1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0738406B1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.m */; };
+		0738406E1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0738406C1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.xib */; };
+		073840771D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 073840751D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.m */; };
+		073840781D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 073840761D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.xib */; };
+		0738407C1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0738407A1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.m */; };
+		0738407D1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0738407B1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.xib */; };
+		073840861D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 073840841D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.m */; };
+		073840871D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 073840851D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.xib */; };
+		077EF8F11D865C30006DC3FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 077EF8F01D865C30006DC3FA /* main.m */; };
+		077EF8F41D865C30006DC3FA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 077EF8F31D865C30006DC3FA /* AppDelegate.m */; };
+		077EF8FC1D865C30006DC3FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 077EF8FB1D865C30006DC3FA /* Assets.xcassets */; };
+		077EF8FF1D865C30006DC3FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 077EF8FD1D865C30006DC3FA /* LaunchScreen.storyboard */; };
+		077EF9221D86879A006DC3FA /* MZCardDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 077EF9201D86879A006DC3FA /* MZCardDetailViewController.m */; };
+		077EF9231D86879A006DC3FA /* MZCardDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 077EF9211D86879A006DC3FA /* MZCardDetailViewController.xib */; };
+		077EF9271D86899A006DC3FA /* MZCardDetailHeaderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 077EF9261D86899A006DC3FA /* MZCardDetailHeaderView.m */; };
+		077EF9291D868F06006DC3FA /* MZCardDetailHeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 077EF9281D868F06006DC3FA /* MZCardDetailHeaderView.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0731A76E1D8E4B5800BF5D39 /* MZCardDetailTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailTableView.h; sourceTree = "<group>"; };
+		0731A76F1D8E4B5800BF5D39 /* MZCardDetailTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailTableView.m; sourceTree = "<group>"; };
+		0731A7711D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailGoodsTableView.h; sourceTree = "<group>"; };
+		0731A7721D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailGoodsTableView.m; sourceTree = "<group>"; };
+		0731A7741D8E4B8700BF5D39 /* MZCardDetailRightsTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailRightsTableView.h; sourceTree = "<group>"; };
+		0731A7751D8E4B8700BF5D39 /* MZCardDetailRightsTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailRightsTableView.m; sourceTree = "<group>"; };
+		073840651D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailRightsPropertyTableViewCell.h; sourceTree = "<group>"; };
+		073840661D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailRightsPropertyTableViewCell.m; sourceTree = "<group>"; };
+		073840671D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailRightsPropertyTableViewCell.xib; sourceTree = "<group>"; };
+		0738406A1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailRightsImageTableViewCell.h; sourceTree = "<group>"; };
+		0738406B1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailRightsImageTableViewCell.m; sourceTree = "<group>"; };
+		0738406C1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailRightsImageTableViewCell.xib; sourceTree = "<group>"; };
+		073840741D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailCardPropertyTableViewCell.h; sourceTree = "<group>"; };
+		073840751D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailCardPropertyTableViewCell.m; sourceTree = "<group>"; };
+		073840761D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailCardPropertyTableViewCell.xib; sourceTree = "<group>"; };
+		073840791D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailRuleInfoTableViewCell.h; sourceTree = "<group>"; };
+		0738407A1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailRuleInfoTableViewCell.m; sourceTree = "<group>"; };
+		0738407B1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailRuleInfoTableViewCell.xib; sourceTree = "<group>"; };
+		073840831D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailInfoNameTableViewCell.h; sourceTree = "<group>"; };
+		073840841D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailInfoNameTableViewCell.m; sourceTree = "<group>"; };
+		073840851D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailInfoNameTableViewCell.xib; sourceTree = "<group>"; };
+		077EF8EC1D865C30006DC3FA /* test_customViewFromCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test_customViewFromCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		077EF8F01D865C30006DC3FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		077EF8F21D865C30006DC3FA /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		077EF8F31D865C30006DC3FA /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		077EF8FB1D865C30006DC3FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		077EF8FE1D865C30006DC3FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		077EF9001D865C30006DC3FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		077EF91F1D86879A006DC3FA /* MZCardDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailViewController.h; sourceTree = "<group>"; };
+		077EF9201D86879A006DC3FA /* MZCardDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailViewController.m; sourceTree = "<group>"; };
+		077EF9211D86879A006DC3FA /* MZCardDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailViewController.xib; sourceTree = "<group>"; };
+		077EF9251D86899A006DC3FA /* MZCardDetailHeaderView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MZCardDetailHeaderView.h; sourceTree = "<group>"; };
+		077EF9261D86899A006DC3FA /* MZCardDetailHeaderView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MZCardDetailHeaderView.m; sourceTree = "<group>"; };
+		077EF9281D868F06006DC3FA /* MZCardDetailHeaderView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MZCardDetailHeaderView.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		077EF8E91D865C30006DC3FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0738405D1D87EB5900541205 /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				073840791D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.h */,
+				0738407A1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.m */,
+				0738407B1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.xib */,
+				073840741D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.h */,
+				073840751D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.m */,
+				073840761D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.xib */,
+				073840651D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.h */,
+				073840661D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.m */,
+				073840671D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.xib */,
+				0738406A1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.h */,
+				0738406B1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.m */,
+				0738406C1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.xib */,
+				073840831D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.h */,
+				073840841D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.m */,
+				073840851D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.xib */,
+			);
+			name = cell;
+			sourceTree = "<group>";
+		};
+		0738405E1D87EB6400541205 /* view */ = {
+			isa = PBXGroup;
+			children = (
+				0731A76E1D8E4B5800BF5D39 /* MZCardDetailTableView.h */,
+				0731A76F1D8E4B5800BF5D39 /* MZCardDetailTableView.m */,
+				0731A7711D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.h */,
+				0731A7721D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.m */,
+				0731A7741D8E4B8700BF5D39 /* MZCardDetailRightsTableView.h */,
+				0731A7751D8E4B8700BF5D39 /* MZCardDetailRightsTableView.m */,
+				077EF9251D86899A006DC3FA /* MZCardDetailHeaderView.h */,
+				077EF9261D86899A006DC3FA /* MZCardDetailHeaderView.m */,
+				077EF9281D868F06006DC3FA /* MZCardDetailHeaderView.xib */,
+			);
+			name = view;
+			sourceTree = "<group>";
+		};
+		077EF8E31D865C30006DC3FA = {
+			isa = PBXGroup;
+			children = (
+				077EF8EE1D865C30006DC3FA /* test_customViewFromCell */,
+				077EF8ED1D865C30006DC3FA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		077EF8ED1D865C30006DC3FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				077EF8EC1D865C30006DC3FA /* test_customViewFromCell.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		077EF8EE1D865C30006DC3FA /* test_customViewFromCell */ = {
+			isa = PBXGroup;
+			children = (
+				077EF8F21D865C30006DC3FA /* AppDelegate.h */,
+				077EF8F31D865C30006DC3FA /* AppDelegate.m */,
+				077EF91F1D86879A006DC3FA /* MZCardDetailViewController.h */,
+				077EF9201D86879A006DC3FA /* MZCardDetailViewController.m */,
+				077EF9211D86879A006DC3FA /* MZCardDetailViewController.xib */,
+				0738405E1D87EB6400541205 /* view */,
+				0738405D1D87EB5900541205 /* cell */,
+				077EF8FB1D865C30006DC3FA /* Assets.xcassets */,
+				077EF8FD1D865C30006DC3FA /* LaunchScreen.storyboard */,
+				077EF9001D865C30006DC3FA /* Info.plist */,
+				077EF8EF1D865C30006DC3FA /* Supporting Files */,
+			);
+			path = test_customViewFromCell;
+			sourceTree = "<group>";
+		};
+		077EF8EF1D865C30006DC3FA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				077EF8F01D865C30006DC3FA /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		077EF8EB1D865C30006DC3FA /* test_customViewFromCell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 077EF9031D865C30006DC3FA /* Build configuration list for PBXNativeTarget "test_customViewFromCell" */;
+			buildPhases = (
+				077EF8E81D865C30006DC3FA /* Sources */,
+				077EF8E91D865C30006DC3FA /* Frameworks */,
+				077EF8EA1D865C30006DC3FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = test_customViewFromCell;
+			productName = test_customViewFromCell;
+			productReference = 077EF8EC1D865C30006DC3FA /* test_customViewFromCell.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		077EF8E41D865C30006DC3FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = ericoda;
+				TargetAttributes = {
+					077EF8EB1D865C30006DC3FA = {
+						CreatedOnToolsVersion = 7.3;
+					};
+				};
+			};
+			buildConfigurationList = 077EF8E71D865C30006DC3FA /* Build configuration list for PBXProject "test_customViewFromCell" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 077EF8E31D865C30006DC3FA;
+			productRefGroup = 077EF8ED1D865C30006DC3FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				077EF8EB1D865C30006DC3FA /* test_customViewFromCell */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		077EF8EA1D865C30006DC3FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				077EF8FF1D865C30006DC3FA /* LaunchScreen.storyboard in Resources */,
+				0738407D1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.xib in Resources */,
+				077EF9231D86879A006DC3FA /* MZCardDetailViewController.xib in Resources */,
+				077EF8FC1D865C30006DC3FA /* Assets.xcassets in Resources */,
+				073840871D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.xib in Resources */,
+				073840691D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.xib in Resources */,
+				073840781D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.xib in Resources */,
+				0738406E1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.xib in Resources */,
+				077EF9291D868F06006DC3FA /* MZCardDetailHeaderView.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		077EF8E81D865C30006DC3FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				077EF8F41D865C30006DC3FA /* AppDelegate.m in Sources */,
+				073840771D87EDD200541205 /* MZCardDetailCardPropertyTableViewCell.m in Sources */,
+				073840681D87ED7200541205 /* MZCardDetailRightsPropertyTableViewCell.m in Sources */,
+				0731A7731D8E4B7E00BF5D39 /* MZCardDetailGoodsTableView.m in Sources */,
+				0731A7761D8E4B8700BF5D39 /* MZCardDetailRightsTableView.m in Sources */,
+				073840861D87EE2A00541205 /* MZCardDetailInfoNameTableViewCell.m in Sources */,
+				0738406D1D87ED9900541205 /* MZCardDetailRightsImageTableViewCell.m in Sources */,
+				0738407C1D87EDEB00541205 /* MZCardDetailRuleInfoTableViewCell.m in Sources */,
+				077EF9221D86879A006DC3FA /* MZCardDetailViewController.m in Sources */,
+				077EF8F11D865C30006DC3FA /* main.m in Sources */,
+				077EF9271D86899A006DC3FA /* MZCardDetailHeaderView.m in Sources */,
+				0731A7701D8E4B5800BF5D39 /* MZCardDetailTableView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		077EF8FD1D865C30006DC3FA /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				077EF8FE1D865C30006DC3FA /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		077EF9011D865C30006DC3FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		077EF9021D865C30006DC3FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		077EF9041D865C30006DC3FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = test_customViewFromCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ericoda.test-customViewFromCell";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		077EF9051D865C30006DC3FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = test_customViewFromCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ericoda.test-customViewFromCell";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		077EF8E71D865C30006DC3FA /* Build configuration list for PBXProject "test_customViewFromCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				077EF9011D865C30006DC3FA /* Debug */,
+				077EF9021D865C30006DC3FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		077EF9031D865C30006DC3FA /* Build configuration list for PBXNativeTarget "test_customViewFromCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				077EF9041D865C30006DC3FA /* Debug */,
+				077EF9051D865C30006DC3FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 077EF8E41D865C30006DC3FA /* Project object */;
+}
