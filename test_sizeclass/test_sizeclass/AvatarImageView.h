@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+IB_DESIGNABLE
 @interface AvatarImageView : UIImageView
-
+@property (nonatomic, assign)IBInspectable CGFloat avatarRadius;
 @end

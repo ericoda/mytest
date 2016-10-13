@@ -13,6 +13,7 @@
 		071220591DB0270A00EBE06A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 071220571DB0270A00EBE06A /* Main.storyboard */; };
 		0712205B1DB0270A00EBE06A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0712205A1DB0270A00EBE06A /* Assets.xcassets */; };
 		0712205E1DB0270A00EBE06A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0712205C1DB0270A00EBE06A /* LaunchScreen.storyboard */; };
+		0712206A1DB02C3100EBE06A /* AvatarImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 071220691DB02C3100EBE06A /* AvatarImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		0712205A1DB0270A00EBE06A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0712205D1DB0270A00EBE06A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0712205F1DB0270A00EBE06A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		071220681DB02C3100EBE06A /* AvatarImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AvatarImageView.h; sourceTree = "<group>"; };
+		071220691DB02C3100EBE06A /* AvatarImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AvatarImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				071220521DB0270A00EBE06A /* AppDelegate.m */,
 				071220541DB0270A00EBE06A /* ViewController.h */,
 				071220551DB0270A00EBE06A /* ViewController.m */,
+				071220681DB02C3100EBE06A /* AvatarImageView.h */,
+				071220691DB02C3100EBE06A /* AvatarImageView.m */,
 				071220571DB0270A00EBE06A /* Main.storyboard */,
 				0712205A1DB0270A00EBE06A /* Assets.xcassets */,
 				0712205C1DB0270A00EBE06A /* LaunchScreen.storyboard */,
@@ -150,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0712206A1DB02C3100EBE06A /* AvatarImageView.m in Sources */,
 				071220561DB0270A00EBE06A /* ViewController.m in Sources */,
 				071220531DB0270A00EBE06A /* AppDelegate.m in Sources */,
 				071220501DB0270A00EBE06A /* main.m in Sources */,
