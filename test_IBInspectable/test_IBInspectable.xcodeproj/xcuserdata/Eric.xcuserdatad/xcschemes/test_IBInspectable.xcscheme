@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "07DCD2931D9EA79700EAA10B"
-               BuildableName = "test_circleLoadingView.app"
-               BlueprintName = "test_circleLoadingView"
-               ReferencedContainer = "container:test_circleLoadingView.xcodeproj">
+               BlueprintIdentifier = "0798CC001DAB7CEA0005A744"
+               BuildableName = "test_IBInspectable.app"
+               BlueprintName = "test_IBInspectable"
+               ReferencedContainer = "container:test_IBInspectable.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07DCD2931D9EA79700EAA10B"
-            BuildableName = "test_circleLoadingView.app"
-            BlueprintName = "test_circleLoadingView"
-            ReferencedContainer = "container:test_circleLoadingView.xcodeproj">
+            BlueprintIdentifier = "0798CC001DAB7CEA0005A744"
+            BuildableName = "test_IBInspectable.app"
+            BlueprintName = "test_IBInspectable"
+            ReferencedContainer = "container:test_IBInspectable.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07DCD2931D9EA79700EAA10B"
-            BuildableName = "test_circleLoadingView.app"
-            BlueprintName = "test_circleLoadingView"
-            ReferencedContainer = "container:test_circleLoadingView.xcodeproj">
+            BlueprintIdentifier = "0798CC001DAB7CEA0005A744"
+            BuildableName = "test_IBInspectable.app"
+            BlueprintName = "test_IBInspectable"
+            ReferencedContainer = "container:test_IBInspectable.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "07DCD2931D9EA79700EAA10B"
-            BuildableName = "test_circleLoadingView.app"
-            BlueprintName = "test_circleLoadingView"
-            ReferencedContainer = "container:test_circleLoadingView.xcodeproj">
+            BlueprintIdentifier = "0798CC001DAB7CEA0005A744"
+            BuildableName = "test_IBInspectable.app"
+            BlueprintName = "test_IBInspectable"
+            ReferencedContainer = "container:test_IBInspectable.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

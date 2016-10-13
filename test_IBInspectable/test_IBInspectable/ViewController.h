@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  test_circleLoadingView
+//  test_IBInspectable
 //
-//  Created by EricLau on 16/9/30.
+//  Created by Eric on 16/10/10.
 //  Copyright © 2016年 ericoda. All rights reserved.
 //
 

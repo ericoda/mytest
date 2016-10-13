@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>test_circleLoadingView.xcscheme</key>
+		<key>test_IBInspectable.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>07DCD2931D9EA79700EAA10B</key>
+		<key>0798CC001DAB7CEA0005A744</key>
 		<dict>
 			<key>primary</key>
 			<true/>
