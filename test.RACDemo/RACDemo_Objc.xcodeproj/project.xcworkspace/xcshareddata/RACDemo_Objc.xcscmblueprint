@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "03ACD49F1FC560477AF3355A5F720761D22AC263",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "03ACD49F1FC560477AF3355A5F720761D22AC263" : 9223372036854775807,
+    "F7D775FB41E9C7772A28B08B340B73A33834CAC3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B85926F-9E74-4C1F-8265-DD74DAE9F07F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "03ACD49F1FC560477AF3355A5F720761D22AC263" : "test.RACDemo\/",
+    "F7D775FB41E9C7772A28B08B340B73A33834CAC3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RACDemo_Objc",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RACDemo_Objc.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ericoda\/RACSimpleDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03ACD49F1FC560477AF3355A5F720761D22AC263"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ericoda\/mytest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7D775FB41E9C7772A28B08B340B73A33834CAC3"
+    }
+  ]
+}
